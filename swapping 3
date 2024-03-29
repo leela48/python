@@ -1,0 +1,14 @@
+//THREE VARIABLES
+
+a=int(input("enter a number: "))
+b=int(input("enter a number: "))
+c=int(input("enter a number: "))
+a=a+b+c
+b=a-(b+c)
+c=a-(b+c)
+a=a-(b+c)
+print(a)
+print(b)
+print(c)
+
+
