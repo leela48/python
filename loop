@@ -1,0 +1,24 @@
+FOR LOOP
+
+text= 'leela'
+index=0
+for i in text:
+    print('text[',index, ']=',i)
+    index +=1
+
+WITH SPACE
+
+text= ' she is leela'
+index=0
+for i in text:
+    print(i,end=' ')
+    index +=1
+
+WHILE LOOP
+text= ' she is leela'
+
+i=0
+while i<len(text):
+    letter = text[i]
+    print(letter,end=' ')
+    i+=1
