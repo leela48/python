@@ -1,0 +1,17 @@
+USING FUNCTIONS
+
+def example():
+    for i in range(11):
+        print("leela",end=' ')
+example ()
+
+
+def diff(a,b):
+    return a-b
+a=10
+b=20
+print(diff(a,b))
+
+
+
+
