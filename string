@@ -1,0 +1,18 @@
+string
+
+# zfill
+str = '17'
+print(str.zfill(10))
+#lower/upper
+str ='leela'
+print(str.upper())
+str = 'Students'
+print(max(str))
+str = 'students'
+print(min(str))
+str = "he he he she"
+print(str.replace('h','u'))
+print(ord('r'))
+print(chr(67))
+print(chr(122))
+
